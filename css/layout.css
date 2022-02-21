@@ -24,4 +24,23 @@
 
 /* Positioning Classes */
 
+.featured {
+  float:left;
+  width: 31%;
+  margin: 10px;
+  overflow: hidden;
+  
+}
 
+---.archive {
+  float: right;
+}
+
+#first-feature {
+  width: 64%;
+}
+
+.border_right {
+  display: inline-block;
+  width: 33%;
+}
